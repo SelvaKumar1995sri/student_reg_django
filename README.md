@@ -3,7 +3,7 @@
 
 <h1>Login Page - Django, sqlite3, HTML</h1>
     
-<h2>Use "Python manage.py runserve" To Run The App </h2>
+<h2>Use "Python manage.py runserver" To Run The App </h2>
 
 <h2 align="left">Home Page : </h2>
 
