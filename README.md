@@ -1,10 +1,9 @@
 # django-student-registration
 <div align="center">
 
-<h1>Use "Python manage.py runserve" To Run The App </h1>
-
 <h1>Login Page - Django, sqlite3, HTML</h1>
-
+    
+<h2>Use "Python manage.py runserve" To Run The App </h2>
 
 <h2 align="left">Home Page : </h2>
 
